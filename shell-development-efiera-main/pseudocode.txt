@@ -1,0 +1,6 @@
+This file contains the pseudocode for the shell development project.
+
+execute core while loop - repeat until "exit" command
+    take input
+    parse input
+    resolve first supplied argument to function

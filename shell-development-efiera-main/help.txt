@@ -1,0 +1,4 @@
+help: display this help message
+exit: exit the shell
+pwd: print the path to the current working directory
+cd <directory>: change the current working directory
